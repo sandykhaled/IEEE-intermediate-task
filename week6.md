@@ -1,5 +1,5 @@
 - Task
-    - [see the videos 8.1|8.2|8.3](https://youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx&si=rXoy-Up2izB2K5tz) <br/>
+    - [see the videos 19:21](https://youtube.com/playlist?list=PL13Ag2mfco64zMLcFjPb5GVWCu-OAjTrx&si=rXoy-Up2izB2K5tz) <br/>
     - Simply get feedback on what you understand and practice everything with the course <br/>
     - Read about every topic in these vidoes from laravel documentation or the book. <br/>
 
